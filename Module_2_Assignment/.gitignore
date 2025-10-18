@@ -1,0 +1,12 @@
+
+env/
+__pycache__/
+*.pyc
+db.sqlite3
+*.log
+*.idea/
+*.vscode/
+.venv/
+venv/
+# Ignore backup ZIPs
+*.zip

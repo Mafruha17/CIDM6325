@@ -10,7 +10,7 @@ West Texas A&M University
 This folder contains all deliverables for **Module 1** of CIDM 6325/70.  
 
 The **core submission** is provided as 
-📄 [📥 Click to Download Module 1 Assignment PDF](./DOC/Module1_Assignment_PDF.pdf)
+📄 [📥 Click to Download Module 1 Assignment PDF](./DOC/Module1_Submission.pdf)
 
 This file consolidates the memo, MVP design, system sketches, risk registry, references, and AI disclosure into a single document.  
 >Additional supporting files (AI_LOG.md, ETHICS.md, Django VMS Critique) are also included for transparency and alignment with course requirements.
@@ -23,7 +23,7 @@ This file consolidates the memo, MVP design, system sketches, risk registry, ref
 ## 📌 Contents
 
 ### Part A – Project Pitch
-- [Module1_Assignment_PDF.pdf](./DOC/Module1_Submission.pdf) – **Full Module 1 deliverable (Foundations, Pitch, Django Practice).**  
+- [roject Pitch ](./DOC/Module1_Submission.pdf) – **Full Module 1 deliverable (Foundations, Pitch, Django Practice).**  
   This file includes the **project memo, MVP, system sketches, risk registry, references, and AI disclosure**.  
 
 ### Part B – AI Tooling Lab Log
@@ -59,4 +59,4 @@ This file consolidates the memo, MVP design, system sketches, risk registry, ref
 
 ## 🔗 Notes
 - The **PDF is the official submission**, while Markdown files provide transparency and iterative documentation.  
-- This foundation directly informed Module 2’s [PRD.md](/Module_2_Assignment/PRD.md.md).  
+- This foundation directly informed Module 2’s [PRD.md](/Module_2_Assignment/PRD.md).  

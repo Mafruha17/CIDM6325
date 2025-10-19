@@ -23,7 +23,7 @@ This file consolidates the memo, MVP design, system sketches, risk registry, ref
 ## 📌 Contents
 
 ### Part A – Project Pitch
-- [roject Pitch ](./DOC/Module1_Submission.pdf) – **Full Module 1 deliverable (Foundations, Pitch, Django Practice).**  
+- [Project Pitch ](./DOC/Module1_Submission.pdf) – **Full Module 1 deliverable (Foundations, Pitch, Django Practice).**  
   This file includes the **project memo, MVP, system sketches, risk registry, references, and AI disclosure**.  
 
 ### Part B – AI Tooling Lab Log

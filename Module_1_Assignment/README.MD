@@ -27,13 +27,13 @@ This file consolidates the memo, MVP design, system sketches, risk registry, ref
   This file includes the **project memo, MVP, system sketches, risk registry, references, and AI disclosure**.  
 
 ### Part B – AI Tooling Lab Log
-- [AI_LOG.md](./AI_LOG.md) – Documentation of AI-assisted prompts and iteration history.  
+- [AI_LOG.md](/Module_2_Assignment/AI_LOG.md) – Documentation of AI-assisted prompts and iteration history.  
 
 ### Part C – Prompt Log & Reflection
-- Integrated into [AI_LOG.md](./AI_LOG.md).  
+- Integrated into [AI_LOG.md]
 
 ### Part D – Ethics & Accessibility
-- [ETHICS.md](./ETHICS.md) – Reflection on accessibility, AI ethics, and compliance.  
+- [ETHICS.md](/Module_2_Assignment/ETHICS.md) – Reflection on accessibility, AI ethics, and compliance.  
 
 ### Part E – Syllabus Accountability Note
 - Embedded within assignment submission.  
